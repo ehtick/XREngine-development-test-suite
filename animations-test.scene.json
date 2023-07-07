@@ -490,10 +490,7 @@
         {
           "name": "gltf-model",
           "props": {
-            "src": "__$project$__/eepro-avatar-pack-base/public/avatars/Racer-transformed.gltf",
-            "resource": {
-              "src": "https://100.99.123.67:8642/static-resources/avatar/public/Brian-transformed.gltf"
-            },
+            "src": "__$project$__/eepro-avatar-pack-base/public/avatars/Racer.gltf",
             "generateBVH": true,
             "avoidCameraOcclusion": false
           }
